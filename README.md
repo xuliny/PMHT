@@ -8,7 +8,7 @@ Hyperspectral images offer unique advantages in challenging scenarios such as co
 
 ### Quantitative performance comparison between PMHT and other SOTA HS trackers on the HOTC2024 dataset
 
-<img width="6361" height="3129" alt="result2" src="https://github.com/user-attachments/assets/661371ca-2fb0-4d45-a082-5b01ddbdfb6c" />
+<img width="2795" height="1324" alt="image" src="https://github.com/user-attachments/assets/fb9b5821-6191-4dca-8522-f0522f29bd57" />
 
 ### Visualization comparisons of PMHT with other SOTA HS trackers on four video sequences
 
